@@ -4,7 +4,7 @@
 # 🔐 ¡Hola! Soy Daikyri 🎯
 ### *Juan Esteban Arango - Cybersecurity Enthusiast & Backend Developer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&background=FFE4E100&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%F0%9F%94%90+Cybersecurity+Specialist+%7C+Pentesting+%7C+Go+Developer;%F0%9F%8C%8D+Villavicencio%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;%F0%9F%8E%AF+Buscando+oportunidades+en+CyberSecurity;%F0%9F%94%93+Especialista+en+Seguridad+Inform%C3%A1tica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&background=FFE4E100&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%94%90+Cybersecurity+Specialist+%7C+Pentesting+%7C+Go+Developer;%F0%9F%8C%8D+Villavicencio%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;%F0%9F%8E%AF+Buscando+oportunidades+en+CyberSecurity;%F0%9F%94%93+Especialista+en+Seguridad+Inform%C3%A1tica" alt="Typing SVG" />
 
 <!-- Security Animation -->
 <p align="center">
@@ -133,33 +133,34 @@ Recepción de archivos
 <!-- Learning & Certifications -->
 ## 📚 Aprendizaje Continuo
 
-```go
-type CyberSecurityJourney struct {
-    CurrentCourses []string
-    Certifications []string
-    Goal          string
-}
-
-daikyri := CyberSecurityJourney{
-    CurrentCourses: []string{
-        "Google Cybersecurity Certificate (Coursera)",
-        "Cisco NetAcad Security Courses",
-        "Penetration Testing Labs",
-    },
-    Certifications: []string{
-        "🎯 En progreso...",
-    },
-    Goal: "Convertirme en Pentester profesional 🔐",
-}
-```
-
 <div align="center">
 
-### 🎯 Cursos Actuales
-**📖 Google Cybersecurity Certificate** • **🔒 Cisco NetAcad Security** • **🖥️ Penetration Testing Labs**
+<table>
+<tr>
+<td align="center">
 
-### 🏆 Objetivo
-**Convertirme en Pentester profesional** 🔐
+### 🎯 **Cursos Actuales**
+📖 **Google Cybersecurity Certificate** (Coursera)  
+🔒 **Cisco NetAcad Security Courses**  
+🖥️ **Penetration Testing Labs**  
+
+</td>
+<td align="center">
+
+### 🏆 **Mi Objetivo**
+**Convertirme en Pentester profesional** 🔐  
+
+### 📜 **Certificaciones**
+🎯 **En progreso...**
+
+</td>
+</tr>
+</table>
+
+### 💡 Mi Enfoque de Aprendizaje
+```
+🔐 Security First → 🎯 Hands-on Practice → 💼 Professional Goal
+```
 
 </div>
 
