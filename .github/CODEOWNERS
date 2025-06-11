@@ -1,0 +1,9 @@
+# CODEOWNERS - Protección de archivos importantes
+# Este archivo especifica quién debe revisar cambios en archivos específicos
+
+# README.md - Solo el propietario puede aprobar cambios
+README.md @Unikyri
+
+# Archivos de configuración importantes
+.github/ @Unikyri
+*.md @Unikyri 

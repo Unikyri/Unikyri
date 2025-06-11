@@ -1,0 +1,26 @@
+# Configuración de protección del repositorio
+repository:
+  # Configuración general
+  name: Unikyri
+  description: "💼 Perfil profesional de Daikyri - Cybersecurity Specialist"
+  private: false
+  
+  # Protección de ramas
+  default_branch: main
+  
+  # Configuraciones de seguridad
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: true
+  
+  # Protección contra force push
+  allow_force_pushes: false
+  
+  # Requerir revisiones
+  required_reviews: 1
+  
+  # Protección de archivos críticos
+  protected_files:
+    - "README.md"
+    - ".github/"
+    - "*.md" 
