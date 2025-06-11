@@ -1,29 +1,32 @@
 <!-- Animated Header with Summer Gradient -->
 <div align="center">
   
-# 🌸 ¡Hola! Soy Daikyri 🌞
+# ♟️ ¡Hola! Soy Daikyri 🎯
 ### *Juan Esteban Arango - Cybersecurity Enthusiast & Backend Developer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&background=FFE4E100&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%94%90+Pentesting+%7C+Backend+%7C+Go+Developer;%F0%9F%8C%B8+Villavicencio%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;%E2%9A%A1+Buscando+oportunidades+en+CyberSec!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&background=FFE4E100&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%F0%9F%94%90+Pentesting+%7C+Backend+%7C+Go+Developer;%E2%99%9F%EF%B8%8F+Estratega+del+Ajedrez+%7C+Villavicencio%2C+Colombia;%F0%9F%8E%AF+Buscando+oportunidades+en+CyberSecurity;%F0%9F%94%93+Vulnerando+m%C3%A1quinas+legalmente" alt="Typing SVG" />
+
+<!-- Chess Animation -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" alt="Pawn" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Target" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Security" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Target" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" alt="Pawn" width="30" height="30"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=header&text=&fontSize=0&animation=twinkling"/>
 
 </div>
 
-<!-- Floating Icons Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Security" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" alt="Chess" width="50" height="50"/>
-</div>
+
 
 ---
 
 <!-- About Me Section with Beautiful Cards -->
 <div align="center">
 
-## 🌺 Sobre Mí 
+## 🎯 Sobre Mí 
 
 <table>
 <tr>
@@ -58,19 +61,22 @@
 <div align="center">
 
 ### 🔥 Lenguajes Principales
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&shadow=0px_4px_15px_rgba(0,173,216,0.3)" alt="Go"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&shadow=0px_4px_15px_rgba(237,139,0,0.3)" alt="Java"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&shadow=0px_4px_15px_rgba(78,170,37,0.3)" alt="Bash"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 
 ### 🔐 Cybersecurity & Tools
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&shadow=0px_4px_15px_rgba(85,124,148,0.3)" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&shadow=0px_4px_15px_rgba(36,150,237,0.3)" alt="Docker"/>
-<img src="https://img.shields.io/badge/Pentesting-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white&shadow=0px_4px_15px_rgba(255,107,107,0.3)" alt="Pentesting"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+<img src="https://img.shields.io/badge/Pentesting-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pentesting"/>
 
 ### 🌐 Web & Database
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&shadow=0px_4px_15px_rgba(247,223,30,0.3)" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&shadow=0px_4px_15px_rgba(255,62,0,0.3)" alt="Svelte"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white&shadow=0px_4px_15px_rgba(1,1,1,0.3)" alt="WebSockets"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
 
 </div>
 
@@ -162,36 +168,36 @@ daikyri := CyberSecurityJourney{
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unikyri&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,ff9a9e,fecfef,fecfef,fad0c4&title_color=fff&text_color=fff&icon_color=fff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unikyri&layout=compact&theme=radical&border_radius=20&bg_color=30,ff9a9e,fecfef,fecfef,fad0c4&title_color=fff&text_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unikyri&show_icons=true&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,E6B3FF,FFB3E6,FFCCF9,F0E6FF&title_color=6A4C93&text_color=6A4C93&icon_color=9B59B6&border_color=E6B3FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unikyri&layout=compact&border_radius=20&bg_color=30,E6B3FF,FFB3E6,FFCCF9,F0E6FF&title_color=6A4C93&text_color=6A4C93&border_color=E6B3FF"/>
 
 </div>
 
 <div align="center">
 
 ### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unikyri&theme=radical&background=45,ff9a9e,fecfef&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&sideNums=fff&currStreakNum=fff&dates=fff&sideLabels=fff&border_radius=20" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unikyri&background=45,E6B3FF,FFB3E6,FFCCF9&stroke=6A4C93&ring=9B59B6&fire=FF69B4&currStreakLabel=6A4C93&sideNums=6A4C93&currStreakNum=9B59B6&dates=6A4C93&sideLabels=6A4C93&border=E6B3FF&border_radius=20" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
 <!-- Contact Section with Animated Cards -->
-## 🌸 ¿Conectamos?
+## 🎯 ¿Conectamos?
 
 <div align="center">
 
 ### 💌 Encuéntrame en:
 
 <a href="https://www.linkedin.com/in/daikyri/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px_4px_15px_rgba(0,119,181,0.3)" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:contacto@daikyri.dev">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shadow=0px_4px_15px_rgba(209,72,54,0.3)" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 ### 💼 Estado Actual
-<img src="https://img.shields.io/badge/🔍_Buscando_Trabajo-CyberSecurity_&_Pentesting-FF69B4?style=for-the-badge&shadow=0px_4px_15px_rgba(255,105,180,0.3)" alt="Job Status"/>
+<img src="https://img.shields.io/badge/🔍_Buscando_Trabajo-CyberSecurity_&_Pentesting-FF69B4?style=for-the-badge" alt="Job Status"/>
 
 </div>
 
@@ -237,7 +243,7 @@ a pensar fuera de la caja
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
 
-### 🌟 *"La seguridad no es un producto, sino un proceso"* 🌟
+### ♟️ *"La seguridad no es un producto, sino un proceso"* 🎯
 
 <img src="https://komarev.com/ghpvc/?username=Unikyri&label=Visitantes&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
 
