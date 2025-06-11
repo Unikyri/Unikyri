@@ -235,7 +235,7 @@ debugging mental
 
 **🎮 Gamer Casual**  
 Los videojuegos me enseñan  
-a pensar fuera de la caja  
+a pensar fuera de la caja. 
 
 </td>
 </tr>
