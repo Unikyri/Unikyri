@@ -1,19 +1,15 @@
 <!-- Animated Header with Summer Gradient -->
 <div align="center">
   
-# ♟️ ¡Hola! Soy Daikyri 🎯
+# 🔐 ¡Hola! Soy Daikyri 🎯
 ### *Juan Esteban Arango - Cybersecurity Enthusiast & Backend Developer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&background=FFE4E100&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%F0%9F%94%90+Pentesting+%7C+Backend+%7C+Go+Developer;%E2%99%9F%EF%B8%8F+Estratega+del+Ajedrez+%7C+Villavicencio%2C+Colombia;%F0%9F%8E%AF+Buscando+oportunidades+en+CyberSecurity;%F0%9F%94%93+Vulnerando+m%C3%A1quinas+legalmente" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&background=FFE4E100&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%F0%9F%94%90+Cybersecurity+Specialist+%7C+Pentesting+%7C+Go+Developer;%F0%9F%8C%8D+Villavicencio%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;%F0%9F%8E%AF+Buscando+oportunidades+en+CyberSecurity;%F0%9F%94%93+Especialista+en+Seguridad+Inform%C3%A1tica" alt="Typing SVG" />
 
-<!-- Chess Animation -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" alt="Pawn" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Target" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Security" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Target" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" alt="Pawn" width="30" height="30"/>
-</div>
+<!-- Security Animation -->
+<p align="center">
+  🛡️ 🔐 🎯 🔐 🛡️
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=header&text=&fontSize=0&animation=twinkling"/>
 
@@ -137,8 +133,6 @@ Recepción de archivos
 <!-- Learning & Certifications -->
 ## 📚 Aprendizaje Continuo
 
-<div align="center">
-
 ```go
 type CyberSecurityJourney struct {
     CurrentCourses []string
@@ -158,6 +152,14 @@ daikyri := CyberSecurityJourney{
     Goal: "Convertirme en Pentester profesional 🔐",
 }
 ```
+
+<div align="center">
+
+### 🎯 Cursos Actuales
+**📖 Google Cybersecurity Certificate** • **🔒 Cisco NetAcad Security** • **🖥️ Penetration Testing Labs**
+
+### 🏆 Objetivo
+**Convertirme en Pentester profesional** 🔐
 
 </div>
 
@@ -243,7 +245,7 @@ a pensar fuera de la caja
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
 
-### ♟️ *"La seguridad no es un producto, sino un proceso"* 🎯
+### 🔐 *"La seguridad no es un producto, sino un proceso"* 🛡️
 
 <img src="https://komarev.com/ghpvc/?username=Unikyri&label=Visitantes&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
 
