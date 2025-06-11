@@ -151,7 +151,11 @@ Recepción de archivos
 **Convertirme en Pentester profesional** 🔐  
 
 ### 📜 **Certificaciones**
-🎯 **En progreso...**
+🔐 **Ciberseguridad Integrador** - MinTIC Colombia  
+🛡️ **Cybersecurity Threat Vectors and Mitigation** - Microsoft/Coursera  
+☕ **Java Web con Spring Boot** - Alura (34h)  
+🎯 **Agilidad y Protagonismo Profesional** - Oracle ONE/Alura  
+💡 **Desarrollo Personal y Soft Skills** - Oracle ONE/Alura
 
 </td>
 </tr>
