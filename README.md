@@ -136,15 +136,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unikyri&show_icons=true&include_all_commits=true&count_private=true&border_radius=20&bg_color=1F2937,374151&title_color=38BDF8&text_color=F3F4F6&icon_color=0EA5E9&border_color=0F172A"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unikyri&layout=compact&border_radius=20&bg_color=1F2937,374151&title_color=38BDF8&text_color=F3F4F6&border_color=0F172A"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unikyri&show_icons=true&include_all_commits=true&count_private=true&border_radius=20&bg_color=1F2937&title_color=38BDF8&text_color=F3F4F6&icon_color=0EA5E9&border_color=0F172A"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unikyri&layout=compact&border_radius=20&bg_color=1F2937&title_color=38BDF8&text_color=F3F4F6&border_color=0F172A"/>
 
 </div>
 
 <div align="center">
 
 ### 🔥 Productividad Constante
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unikyri&background=1F2937,374151&stroke=38BDF8&ring=0EA5E9&fire=F59E0B&currStreakLabel=F3F4F6&sideNums=F3F4F6&currStreakNum=38BDF8&dates=9CA3AF&sideLabels=9CA3AF&border=0F172A&border_radius=20" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unikyri&background=1F2937&stroke=38BDF8&ring=0EA5E9&fire=F59E0B&currStreakLabel=F3F4F6&sideNums=F3F4F6&currStreakNum=38BDF8&dates=9CA3AF&sideLabels=9CA3AF&border=0F172A&border_radius=20" alt="GitHub Streak"/>
 
 </div>
 
