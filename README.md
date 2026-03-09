@@ -1,47 +1,45 @@
 <!-- Animated Header with Summer Gradient -->
 <div align="center">
   
-# 🔐 ¡Hola! Soy Daikyri 🎯
-### *Juan Esteban Arango - Cybersecurity Enthusiast & Backend Developer*
+# 👋 ¡Hola! Soy Juan Esteban Arango 🏗️
+### *Backend & DevOps Engineer | DevSecOps Advocate*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&background=FFE4E100&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%94%90+Cybersecurity+Specialist+%7C+Pentesting+%7C+Go+Developer;%F0%9F%8C%8D+Villavicencio%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;%F0%9F%8E%AF+Buscando+oportunidades+en+CyberSecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ADD8&background=FFE4E100&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%E2%9A%99%EF%B8%8F+Backend+Specialist+%7C+Go+%26+Java+Developer;%F0%9F%9A%80+DevOps+%26+Cloud+Infrastructure;%F0%9F%9B%A1%EF%B8%8F+Secure+by+Design+(DevSecOps)" alt="Typing SVG" />
 
-<!-- Security Animation -->
+<!-- Architecture Animation -->
 <p align="center">
-  🛡️ 🔐 🎯 🔐 🛡️
+  ⚙️ ☁️ 🛡️ ☁️ ⚙️
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=header&text=&fontSize=0&animation=twinkling"/>
 
 </div>
 
-
-
 ---
 
-<!-- About Me Section with Beautiful Cards -->
+<!-- Professional Summary -->
 <div align="center">
 
-## 🎯 Sobre Mí 
+## 🎯 Perfil Profesional
 
 <table>
 <tr>
 <td>
 
-🎓 **Estudiante** de Ingeniería de Sistemas  
-🏠 **Ubicación**: Villavicencio, Colombia  
-🔐 **Especialización**: Seguridad Informática & Pentesting  
-💻 **Backend Lover**: Especialmente con **Go**  
-🎯 **Objetivo**: Trabajo en CyberSecurity/Pentesting  
+🚀 **Rol Principal**: Backend & DevOps Engineer  
+🎓 **Educación**: Ingeniería de Sistemas (Último semestre)  
+☁️ **Nube & Infra**: GCP, Docker, Linux (Bash)  
+💻 **Stack Fuerte**: **Go**, **Java**, Bases de Datos Relacionales  
+🛡️ **Enfoque**: Arquitecturas escalables y desarrollo seguro (DevSecOps)  
 
 </td>
 <td>
 
-♟️ **Hobbies**: Ajedrez, Videojuegos, Cocina  
-🎵 **Música**: ¡Siempre presente!  
-🌞 **Vibe**: Colores cálidos y verano  
-🏆 **Logro**: Ganador de Hackathon  
-🔍 **Pasión**: Vulnerar máquinas (legalmente)  
+🎯 **Objetivo Actual**: Construir sistemas robustos, optimizados y seguros.  
+🏆 **Reconocimientos**: 2x Ganador de Hackathon  
+⚙️ **Metodología**: Clean Architecture, Microservicios, CI/CD  
+🌎 **Ubicación**: Villavicencio, Colombia  
+💼 **Disponibilidad**: Full-time para retos técnicos de alto nivel  
 
 </td>
 </tr>
@@ -51,87 +49,59 @@
 
 ---
 
-<!-- Tech Stack with Animated Badges -->
-## 🛠️ Mi Arsenal Tecnológico
+<!-- Tech Stack -->
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-### 🔥 Lenguajes Principales
+### 💻 Desarrollo Backend
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 
-### 🔐 Cybersecurity & Tools
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+### ☁️ Infraestructura & DevOps (DevSecOps)
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
-<img src="https://img.shields.io/badge/Pentesting-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pentesting"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
-### 🌐 Web & Database
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+### 🗄️ Bases de Datos
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
 
 </div>
 
 ---
 
-<!-- Projects Section with Beautiful Layout -->
+<!-- Featured Projects -->
 ## 🚀 Proyectos Destacados
 
 <div align="center">
 
-### 🖥️ Sistema de Escritorio Remoto
-*Mi proyecto más completo - Arquitectura de 3 módulos*
+### 🤖 [Klyra - Interactive AI Tutoring](https://github.com/Unikyri/gemini-live-agent-klyra)
+*Arquitectura Backend (Modular Monolith) & Integración AI en Tiempo Real*
+*   **Backend:** Construido en **Go** siguiendo Clean Architecture y alojado en **Google Cloud Run**.
+*   **Funcionalidades:** Conexiones WebSockets bidireccionales, persistencia en PostgreSQL, e integración profunda con la API de Gemini Live para "barge-in" de audio y Vertex AI (Graph RAG).
+*   **Despliegue:** Sistema robusto preparado para alta concurrencia de eventos asíncronos.
 
-<table>
-<tr>
-<td align="center">
+### 🏦 [WealthScope - AI Financial Advisor](https://github.com/Unikyri/WealthScope)
+*Arquitectura Backend de Alto Rendimiento para Fintech*
+*   **Backend:** API REST desarrollada íntegramente en **Go**.
+*   **Logros:** Aprendizaje y dominio de Go en solo 5 días previos a la hackathon para asegurar el rendimiento y escalabilidad necesarios.
+*   **Integraciones:** Sistema de OCR de documentos, despliegue de escenarios predictivos en tiempo real y consumo masivo de APIs de mercado.
 
-**🌐 [Admin Web](https://github.com/Unikyri/EscritorioRemoto-WebAdmin)**  
-*Frontend SPA con Svelte*  
-Dashboard administrativo  
-Control remoto en tiempo real  
-Transferencia de archivos  
-
-</td>
-<td align="center">
-
-**⚙️ [Backend Server](https://github.com/Unikyri/EscritorioRemoto-Backend)**  
-*Servidor en Go*  
-Gestión de conexiones  
-Base de datos  
-API REST + WebSockets  
-
-</td>
-<td align="center">
-
-**💻 [Cliente](https://github.com/Unikyri/EscritorioRemoto-Cliente)**  
-*Cliente controlado*  
-Grabación de pantalla  
-Transmisión en tiempo real  
-Recepción de archivos  
-
-</td>
-</tr>
-</table>
-
-**🔧 Tecnologías**: Go, Svelte, TypeScript, WebSockets, SQLite  
-**✨ Características**: Control remoto, streaming en tiempo real, transferencia de archivos
+### 🏙️ [UrbanIQ-Villavo - Smart Mobility Platform](https://github.com/Unikyri/UrbanIQ-Villavo)
+*Prototipo TRL 6 - Primer Puesto en Hackathon Alcaldía 2025*
+*   **Desarrollo Rápido:** Entrega de un MVP funcional y completo de movilidad inteligente bajo presión extrema (4 días de desarrollo ininterrumpido).
+*   **Enfoque:** Priorización de features críticas, bases de datos optimizadas y despliegue rápido para demostración en vivo.
 
 </div>
 
-### 🌐 Otros Proyectos Geniales
-
-- **💬 Sistema P2P Distribuido**: Chat cliente-servidor escalado a red P2P con Java y WebSockets
-- **🏆 Proyecto Hackathon Ganador**: Mapa interactivo para conectar campesinos y comerciantes
-
 ---
 
-<!-- Learning & Certifications -->
-## 📚 Aprendizaje Continuo
+<!-- Certifications -->
+## 📜 Certificaciones Profesionales
 
 <div align="center">
 
@@ -139,121 +109,65 @@ Recepción de archivos
 <tr>
 <td align="center">
 
-### 🎯 **Cursos Actuales**
-📖 **Google Cybersecurity Certificate** (Coursera)  
-🔒 **Cisco NetAcad Security Courses**  
-🖥️ **Penetration Testing Labs**  
+### ☁️ **Cloud & Infraestructura**
+**[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D4ABE06FA40938C7EB8DC5A1D09CCF24DD68B38E34D081A02FDB7EF9E5CC33FF)**
+*Conocimiento fundamental de arquitecturas cloud, redes, bases de datos gestionadas, seguridad (IAM, OCI Security) y modelos de cumplimiento.*
 
 </td>
 <td align="center">
 
-### 🏆 **Mi Objetivo**
-**Convertirme en Pentester profesional** 🔐  
-
-### 📜 **Certificaciones**
-🔐 **Ciberseguridad Integrador** - MinTIC Colombia  
-🛡️ **Cybersecurity Threat Vectors and Mitigation** - Microsoft/Coursera  
-☕ **Java Web con Spring Boot** - Alura (34h)  
-🎯 **Agilidad y Protagonismo Profesional** - Oracle ONE/Alura  
-💡 **Desarrollo Personal y Soft Skills** - Oracle ONE/Alura
+### 💻 **Desarrollo de Software**
+**Programa ONE (Oracle Next Education)**
+*Programa intensivo (+300 horas) cubriendo:*
+*   Java Orientado a Objetos y Spring Framework.
+*   Lógica de programación e Inteligencia Artificial aplicada con Java.
+*   Agilidad y metodologías de desarrollo.
 
 </td>
 </tr>
 </table>
 
-### 💡 Mi Enfoque de Aprendizaje
-```
-🔐 Security First → 🎯 Hands-on Practice → 💼 Professional Goal
-```
+</div>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 Métricas de Desarrollo
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unikyri&show_icons=true&include_all_commits=true&count_private=true&border_radius=20&bg_color=1F2937,374151&title_color=38BDF8&text_color=F3F4F6&icon_color=0EA5E9&border_color=0F172A"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unikyri&layout=compact&border_radius=20&bg_color=1F2937,374151&title_color=38BDF8&text_color=F3F4F6&border_color=0F172A"/>
+
+</div>
+
+<div align="center">
+
+### 🔥 Productividad Constante
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unikyri&background=1F2937,374151&stroke=38BDF8&ring=0EA5E9&fire=F59E0B&currStreakLabel=F3F4F6&sideNums=F3F4F6&currStreakNum=38BDF8&dates=9CA3AF&sideLabels=9CA3AF&border=0F172A&border_radius=20" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<!-- GitHub Stats with Custom Theme -->
-## 📊 Mis Estadísticas
+<!-- Contact Section -->
+## 🤝 Contacto
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unikyri&show_icons=true&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,E6B3FF,FFB3E6,FFCCF9,F0E6FF&title_color=6A4C93&text_color=6A4C93&icon_color=9B59B6&border_color=E6B3FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unikyri&layout=compact&border_radius=20&bg_color=30,E6B3FF,FFB3E6,FFCCF9,F0E6FF&title_color=6A4C93&text_color=6A4C93&border_color=E6B3FF"/>
-
-</div>
-
-<div align="center">
-
-### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Unikyri&background=45,E6B3FF,FFB3E6,FFCCF9&stroke=6A4C93&ring=9B59B6&fire=FF69B4&currStreakLabel=6A4C93&sideNums=6A4C93&currStreakNum=9B59B6&dates=6A4C93&sideLabels=6A4C93&border=E6B3FF&border_radius=20" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<!-- Contact Section with Animated Cards -->
-## 🎯 ¿Conectamos?
-
-<div align="center">
-
-### 💌 Encuéntrame en:
 
 <a href="https://www.linkedin.com/in/daikyri/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:contacto@daikyri.dev">
+<a href="mailto:jeaqhbo@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-### 💼 Estado Actual
-<img src="https://img.shields.io/badge/🔍_Buscando_Trabajo-CyberSecurity_&_Pentesting-FF69B4?style=for-the-badge" alt="Job Status"/>
+### ⚡ Buscando retos de ingeniería Backend / Cloud (Full-Time | Remote)
 
-</div>
-
----
-
-<!-- Fun Facts Section -->
-<div align="center">
-
-## 🎲 Datos Curiosos
-
-<table>
-<tr>
-<td>
-
-**♟️ Estratega del Ajedrez**  
-Mi mente analítica se entrena  
-en el tablero de 64 casillas  
-
-</td>
-<td>
-
-**🍳 Chef en Desarrollo**  
-Cocinar es mi método de  
-debugging mental  
-
-</td>
-<td>
-
-**🎮 Gamer Casual**  
-Los videojuegos me enseñan  
-a pensar fuera de la caja. 
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- Animated Footer -->
-<div align="center">
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
 
-### 🔐 *"La seguridad no es un producto, sino un proceso"* 🛡️
-
-<img src="https://komarev.com/ghpvc/?username=Unikyri&label=Visitantes&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
-
-**✨ Gracias por visitar mi perfil ✨**
+**✨ Construyendo software escalable, un commit a la vez. ✨**
 
 </div>
